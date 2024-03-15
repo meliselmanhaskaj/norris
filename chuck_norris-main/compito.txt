@@ -1,0 +1,8 @@
+-crea algoritmo che scarica citazione da  https://api.chucknorris.io/    
+-inserire citazione e dati annessi in una classe aposita                 
+-stamparla nella console assieme ad id e data di creazione               
+-modifica il codice per far si che si possano prendere citazioni solo di una determinata categoria decisa a priori
+
+-Inserire la categoria per la quale filtrare in un file di ambiente da caricare all'esecuzione del programma  X
+-Accettare da linea di comando una stringa con la quale filtrare le citazioni attraverso le api               
+-Salvare la citazione in un file con i suoi dati                                                                        
